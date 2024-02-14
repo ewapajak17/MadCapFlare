@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Home.htm"
+  MasterToc="/Project/TOCs/Exemplary TOC.fltoc"
+  Skin="/Project/Skins/Top-Navigation.flskn"
+  ConditionTagExpression="exclude[Default.PrintOnly]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Glossaries />
+</CatapultTarget>

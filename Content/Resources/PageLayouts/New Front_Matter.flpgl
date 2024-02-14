@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundType="Solid" BackgroundColor="#e6eff4">
+        <Frame X="37px" Y="34px" Width="482px" Height="138px" Flow="header" Right="57px" Bottom="692px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h2 xhtml:style="text-align: center;">How to become a sworn translator?</xhtml:h2>
+                        <xhtml:h3>A quick guide for translators</xhtml:h3>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="12px" Y="720px" Width="262px" Height="87px" Flow="footer" Right="302px" Bottom="57px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>Created by Ewa Pająk</xhtml:p>
+                        <xhtml:p>Using MadCap Flare</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

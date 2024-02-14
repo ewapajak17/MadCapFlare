@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Copy of New TOC pdf.fltoc"
+  ConditionTagExpression="include[Default.PrintOnly]"
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    PageLayout="TwoColumnRight" />
+  <Glossaries />
+  <DocumentProperties
+    Author="Ewa Pająk" />
+</CatapultTarget>

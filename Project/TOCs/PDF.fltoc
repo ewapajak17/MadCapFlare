@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartPageLayout="false"
+    PageType="title"
+    PageNumberFormat="lower-roman"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    Link="/Content/E-Frontmatter-Topics/Title.htm"
+    BreakType="pageLayout"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A-Introduction/What will you learn in this guide.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A-Introduction/Who is a sworn translator.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B-Laws/Legal acts.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C-Exam/Exam for sworn translators.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Exam/Before the exam.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Exam/Prepare for the exam.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Exam/Sample materials.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

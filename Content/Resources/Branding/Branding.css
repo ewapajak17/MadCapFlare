@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Top Navigation and PDF/ */
+
+:root
+{
+	--Light: #e6eff4;
+	--Medium: #c6d6e1;
+	--Dark: #cce8f4;
+	--Darkest: #c6d6e1;
+	--Primary: #194b6d;
+	--Secondary: #194b6d;
+	--Lightest: #c6d6e1;
+	--LogoImage: url('../Images/certified-seal mini.jpg');
+	--HeroImage: url('../Images/biznesowa-kobieta-pracujaca-w-biurze-na-komputerze.jpg');
+	--LogoImagePrint: url('Logo.svg');
+	--FontFamily: sans-serif;
+}
+

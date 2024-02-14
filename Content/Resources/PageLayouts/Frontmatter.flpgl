@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title" Name="Title" Orientation="portrait" BleedLeft="0" BleedRight="0" BleedTop="0" BleedBottom="0" BackgroundImage="none" BackgroundType="Solid" BackgroundColor="#e6eff4">
+        <Frame X="47px" Y="518px" Width="527px" Height="72px" Flow="body" Right="50px" Bottom="274px" />
+        <Frame X="62px" Y="18px" Width="507px" Height="82px" Flow="header" Right="55px" Bottom="764px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;">How to become a sworn translator?</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;">A quick guide for translators</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="26px" Y="118px" Width="568px" Height="370px" Flow="decoration0" Right="30px" Bottom="376px" BackgroundImage="../Images/biznesowa-kobieta-pracujaca-w-biurze-na-komputerze.jpg" BackgroundRepeat="stretch">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

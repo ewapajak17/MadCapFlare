@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Home.htm"
+  MasterToc="/Project/TOCs/Exemplary TOC.fltoc"
+  ConditionTagExpression="exclude[Default.PrintOnly]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Glossaries />
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+</CatapultTarget>
