@@ -8,7 +8,7 @@
   ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
   PatchHeadingLevels="true"
   InjectEmptyPages="false"
-  MasterToc="/Project/TOCs/Preview TOC.fltoc"
+  MasterToc="/Project/TOCs/Copy of Exemplary TOC.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
   <PrintedOutput
     CollapseMargins="false"
