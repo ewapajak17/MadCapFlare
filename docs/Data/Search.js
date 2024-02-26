@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction/Copy of What will you learn in this guide.htm'],s:['149'],p:[['149',9]]});

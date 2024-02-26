@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="HTML5 Favicon skin"
+  ComponentType="Favicon">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="favicon-16x16.png">H4sIAAAAAAAEAB1SeVBbZRD/FA+k0tbWo+M/Os7YaW1Rqq1OO44jDh2gHKUc7Tj+0ZSzqG2hFA/qdEAr2kNBsRxScCollCskgeRx5SBcSYDcJOEI5CQJZ2ia673ve8+HO7P7293Z3Znd395KTYmLjHg9AgAQmRAfm0bj7m0ND6Ptgahd6TQ8kx+THAMAp3IHvPAsHb+ZHZ+WDEDpfgDKbgKA06kyFwAl0QCsMAA4UQfAa4X3B858DMDTmalJGSfpApyCBElCRCJE4UQIJ3wUBSmKCuEQxwkSkhQkSUQhkhYUJPwkFVr3Oif1SsEkXzDdLjX0ub3OIEmh7RH0EER3kwgSyA8pr1wnwqStsnmW1i7U2sdUlmFM9q9Y2UZSOEIhhENIBEgqINUIxGqu0T255nX6Cd+mz+tYdSOKUM/Le0eZS8saiRxb9yxD5F/1WPijHesh8+Kaxmif6pe2dAor24fujOm6pToMUzVKDB3OJ3q5VkygIEUhqUZsXtWa3MqHWEOz8K54li2Z5cks/TxFfT2v+G/R97kVcfaAQqLqJciAy7PUMlgnmu3uVzOlZnavvPZ+7w8NQ9/daP68mn+psqugR1HTN9U0a5V0S+qGxvnqRYlAz2zsL2OOlef+cryRd719/PZD8c/DCy3T1p7ReZZQ18nk1zs2FoOkd0TNMnvUN5uKavklzJHyPl2TbGFw1IgJNexHAw0P2NUml8odnBPK+KEgvfioY1MuNrQNKTG1TSHWcFqHf3qAlQ+r22cWx10ey6pveXwGM9m0COE0Nx6fVSgTLTlNgqmuCT3m2Nz0BkOBUHDLvzbvVMrnBkTSXpIMQAJHkCIoL6R8cpVANNE2Yx4xWiYWbHLN/LBE3SNScAkYwvEQhDST25RDiG893pieFYmVrDEdR24YsK6bCOr/f0EEIkMkfWUqgCMiSNA9EEEyKaNmk36sp66lpaSDT5eNedtBVmJcbHjF4r1S2t+TEBuTsU+bzcjJyruQm+00m81267LFkW122vbufnnPqy+9sre26q8/a7Kq/rhXfS41I+3smcz0fINZlaPS6NUz2o+ij77/4ZFjH2DsnCoul8/h9XxbeO3qN0UlxQGG58lj/5bPuyv8xYidL0TuqGT8evf277d+u3M6PulUSkJyopIhnZIrZNOT7x04/M67B6MOdTMedbaz2ro6rlz8+svLBZdsF/NdrrWVDff66j/RRRr7wfTW5Py6I8X6teP7i53T59mFauvbiS37aooOn+dcnVk59pWha4ldVG3Pq4j6gn/ZZhRmO1mm6/5TVxy1eUbu6VKKDHs+eSfnjU+4maWTZ5+7UUA2Q7gwwU+21c69xSs5FHYCgKOD55qjdRVj9KlAwsmUWNZnjB//Aw1azEoCBAAA</Resource>
+    </Resources>
+  </Stylesheet>
+  <Master
+    Image="favicon-16x16.png" />
+  <Browser>
+    <SmallFavicon
+      Image="(generated)"
+      SizePx="16 px" />
+    <MediumFavicon
+      Image="(none)"
+      SizePx="" />
+    <LargeFavicon
+      Image="(none)"
+      SizePx="" />
+  </Browser>
+  <ShortcutIcon
+    Image="(none)" />
+  <Touch>
+    <TouchIcon
+      Image="(none)"
+      SizePx="" />
+  </Touch>
+  <Windows>
+    <MicrosoftSmallTile
+      Image="(none)" />
+    <MicrosoftMediumTile
+      Image="(none)" />
+    <MicrosoftWideTile
+      Image="(none)" />
+    <MicrosoftLargeTile
+      Image="(none)" />
+  </Windows>
+  <Strings />
+</CatapultSkin>
