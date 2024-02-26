@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title" Name="Title" Orientation="portrait" BleedLeft="0" BleedRight="0" BleedTop="0" BleedBottom="0" BackgroundImage="none">
+        <Frame X="94px" Y="775px" Width="435px" Height="87px" Flow="footer" Right="95px" Bottom="2px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="16px" Y="27px" Width="596px" Height="740px" Flow="body" Right="12px" Bottom="97px" />
+    </Page>
+</PageStyles>

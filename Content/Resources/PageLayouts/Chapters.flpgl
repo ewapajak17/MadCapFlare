@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0" BleedRight="0" BleedTop="0" BleedBottom="0" BackgroundType="Solid">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="85px" Width="624px" Height="779px" BackgroundType="Solid">
+        </Frame>
+        <Frame X="0px" Y="807px" Width="624px" Height="57px" Flow="footer" Right="0px" Bottom="0px" Anchors="Left,Right,Bottom" TextAlign="center" VerticalAlign="top" BorderTopStyle="solid" BorderTopWidth="0px" BorderTopColor="#ffffff" PaddingTop="30px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>Page <MadCap:variable xhtml:name="System.PageNumber" /> of <MadCap:variable xhtml:name="System.PageCount" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-68px" Y="903px" Width="328px" Height="27px" Flow="header" Right="364px" Bottom="-66px" DividerColor="#cf6628" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="color">How to become a sworn translator?</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

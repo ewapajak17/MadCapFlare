@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Frontmatter"
+    Link="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    conditions="Default.PrintOnly"
+    BreakType="pageLayout"
+    PageType="title"
+    AutoEndOnLeftPage="enabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Resources/Title page printed.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Chapters"
+    Link="/Content/Resources/PageLayouts/Chapters.flpgl"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    ReplaceMergeNode="false"
+    conditions="Default.PrintOnly"
+    ComputeToc="false" />
+  <TocEntry
+    Title="Introduction"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    Link="/Content/A-Introduction/What documents does a sworn translator translate.htm">
+    <TocEntry
+      Title="What will you learn in this guide?"
+      Link="/Content/A-Introduction/What will you learn in this guide.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Who is a sworn translator?"
+      Link="/Content/A-Introduction/Who is a sworn translator.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="What documents does a sworn translator translate?"
+      Link="/Content/A-Introduction/What documents does a sworn translator translate.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Who may become a sworn translator?"
+      Link="/Content/A-Introduction/Who may become a sworn translator.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Laws"
+    Link="/Content/B-Laws/Legal acts.htm">
+    <TocEntry
+      Title="Legal acts"
+      Link="/Content/B-Laws/Legal acts.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Exam"
+    Link="/Content/C-Exam/Exam for sworn translators.htm">
+    <TocEntry
+      Title="Exam for a sworn translator"
+      Link="/Content/C-Exam/Exam for sworn translators.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Before the exam"
+      Link="/Content/C-Exam/Exam for sworn translators.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prepare for the exam"
+      Link="/Content/C-Exam/Prepare for the exam.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sample materials"
+      Link="/Content/C-Exam/Sample materials.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="More"
+    Link="/Content/D-More/Literature.htm">
+    <TocEntry
+      Title="Literature"
+      Link="/Content/D-More/Literature.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Useful links"
+      Link="/Content/D-More/Useful links.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vocabulary"
+      Link="/Content/D-More/Vocabulary.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
